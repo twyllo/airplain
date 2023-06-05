@@ -1,0 +1,7 @@
+<sys>
+	<server>127.0.0.1</server>
+	<port>5432</port>
+	<user>postgres</user>
+	<password>1663</password>
+	<dbname>postgres</dbname>
+</sys>
